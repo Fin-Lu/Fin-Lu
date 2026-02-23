@@ -101,13 +101,6 @@ gehärtetes Ubuntu-System – meine Daten bleiben unter meiner Kontrolle.
 
 ---
 
-## 📊 GitHub Stats
-
-![Fin-Lu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fin-Lu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fin-Lu&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 🌱 Aktuell lerne ich
 
